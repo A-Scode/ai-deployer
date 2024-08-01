@@ -40,7 +40,7 @@ const ContactUs: React.FC = () => {
             Contact us
           </h1>
           <p className="mt-1 text-gray-600 dark:text-neutral-400">
-            We'd love to talk about how we can help you.
+            We&apos;d love to talk about how we can help you.
           </p>
         </div>
       </div>
@@ -163,7 +163,7 @@ const ContactUs: React.FC = () => {
 
             <div className="mt-3 text-center">
               <p className="text-sm text-gray-500 dark:text-neutral-500">
-                We'll get back to you in 1-2 business days.
+                We&apos;ll get back to you in 1-2 business days.
               </p>
             </div>
           </form>

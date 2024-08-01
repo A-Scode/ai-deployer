@@ -37,7 +37,7 @@ const CookieConsent: React.FC = () => {
               We are using cookies to improve your experience!
             </h2>
             <p className="mt-2 text-sm text-gray-600 dark:text-neutral-400">
-              By clicking "Allow all", you agree to use of all cookies. Visit our{' '}
+              By clicking &quot;Allow all&quot;, you agree to use of all cookies. Visit our{' '}
               <Link href={"/cookiepolicy"}
                 className="inline-flex items-center gap-x-1.5 text-blue-600 decoration-2 hover:underline font-medium dark:text-blue-500"
               >

@@ -63,7 +63,7 @@ const Footer: React.FC = () => {
               <p><Link href={"/About"} className="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200">About us</Link></p>
               <p><Link href={"/Teammate"} className="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200">Our Team</Link></p>
               <p><Link href={"/Blog"} className="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200">Blog</Link></p>
-              <p><Link href={"/Careers"} className="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200" >Careers</Link> <span className="inline ms-1 text-xs bg-blue-700 text-white py-1 px-2 rounded-lg">We're hiring</span></p>
+              <p><Link href={"/Careers"} className="inline-flex gap-x-2 text-gray-400 hover:text-gray-200 dark:text-neutral-400 dark:hover:text-neutral-200" >Careers</Link> <span className="inline ms-1 text-xs bg-blue-700 text-white py-1 px-2 rounded-lg">We&apos;re hiring</span></p>
             </div>
           </div>
           {/* End Col */}

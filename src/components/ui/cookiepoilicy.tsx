@@ -40,7 +40,7 @@ const CookiesPolicy: React.FC = () => {
       <h3>Your Choices Regarding Cookies</h3>
       <p>If You prefer to avoid the use of Cookies on the Website, first You must disable the use of Cookies in your browser and then delete the Cookies saved in your browser associated with this website. You may use this option for preventing the use of Cookies at any time.</p>
       <p>If You do not accept Our Cookies, You may experience some inconvenience in your use of the Website and some features may not function properly.</p>
-      <p>If You'd like to delete Cookies or instruct your web browser to delete or refuse Cookies, please visit the help pages of your web browser.</p>
+      <p>If You&apos;d like to delete Cookies or instruct your web browser to delete or refuse Cookies, please visit the help pages of your web browser.</p>
       <ul>
         <li>
           <p>For the Chrome web browser, please visit this page from Google: <a href="https://support.google.com/accounts/answer/32050" target="_blank" rel="noopener noreferrer">https://support.google.com/accounts/answer/32050</a></p>
@@ -55,7 +55,7 @@ const CookiesPolicy: React.FC = () => {
           <p>For the Safari web browser, please visit this page from Apple: <a href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac" target="_blank" rel="noopener noreferrer">https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac</a></p>
         </li>
       </ul>
-      <p>For any other web browser, please visit your web browser's official web pages.</p>
+      <p>For any other web browser, please visit your web browser&apos;s official web pages.</p>
       <h3>More Information about Cookies</h3>
       <p>You can learn more about cookies here: <a href="https://www.termsfeed.com/blog/cookies/" target="_blank" rel="noopener noreferrer">All About Cookies by TermsFeed</a>.</p>
       <h3>Contact Us</h3>
